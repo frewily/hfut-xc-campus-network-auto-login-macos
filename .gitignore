@@ -1,0 +1,10 @@
+# Local installation and runtime state
+hfut-campus-login/
+*.log
+*.tmp
+.DS_Store
+
+# Never commit credential exports or local configuration
+*.keychain
+*.har
+.env
